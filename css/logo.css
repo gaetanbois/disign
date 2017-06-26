@@ -1,3 +1,33 @@
+body {
+  margin: 0px;
+}
+
+h1 {
+  font-family: cinzel;
+  text-align: center;
+  margin: 0px;
+}
+
+h2 {text-align: center;
+}
+
+header {
+  box-sizing: border-box;
+  position: fixed;
+  width: 100%;
+  background-color: #D4726A;
+}
+
+nav {
+  justify-content: space-around;
+  display: flex;
+  background-color: #AA4139;
+}
+
+nav > div:hover{
+  background-color: #2B823A;
+}
+
 p {
   width: 80em;
   color: #222222;
@@ -5,9 +35,11 @@ p {
   color: #AA4139;
 }
 
-h1 {
-  font-family: cinzel;
+.placeholder{
+  height: 151px;
 }
+
+
 
 @font-face {
 font-family: cinzel;
