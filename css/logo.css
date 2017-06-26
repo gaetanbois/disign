@@ -1,0 +1,19 @@
+p {
+  width: 80em;
+  color: #222222;
+  font-family: lemon_milk;
+}
+
+h1 {
+  font-family: cinzel;
+}
+
+@font-face {
+font-family: cinzel;
+src: url("../fonts/cinzel/Cinzel-Regular.otf");
+}
+
+@font-face {
+  font-family: lemon_milk;
+  src: url("../fonts/lemon_milk/LemonMilk.otf");
+}
