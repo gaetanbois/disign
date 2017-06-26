@@ -2,6 +2,7 @@ p {
   width: 80em;
   color: #222222;
   font-family: lemon_milk;
+  color: #AA4139;
 }
 
 h1 {
@@ -17,3 +18,15 @@ src: url("../fonts/cinzel/Cinzel-Regular.otf");
   font-family: lemon_milk;
   src: url("../fonts/lemon_milk/LemonMilk.otf");
 }
+
+.color-primary-0 { color: #2B823A }	/* Main Primary color */
+.color-primary-1 { color: #82C38D }
+.color-primary-2 { color: #51A35F }
+.color-primary-3 { color: #10621E }
+.color-primary-4 { color: #00410B }
+
+.color-complement-0 { color: #AA4139 }	/* Main Complement color */
+.color-complement-1 { color: #FFB0AA }
+.color-complement-2 { color: #D4726A }
+.color-complement-3 { color: #801D15 }
+.color-complement-4 { color: #550600 }
